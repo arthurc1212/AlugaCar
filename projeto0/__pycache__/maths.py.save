@@ -1,0 +1,13 @@
+from shapes_2d import Ponto, Circulo
+import numpy as np
+
+class Colision:
+
+	def __init__(self):
+		print("Uma classe 'Colision' foi instanciada.")
+
+	def ponto_circulo(self, ponto, circulo):
+
+
+		centro_x= circulo.get_x()
+		centro_y= circulo.get_y()
