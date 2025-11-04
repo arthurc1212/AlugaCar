@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "nome": "Arthur",
+      "email": "coelho@gmail.com",
+      "salt": "cb2d1a8fe1675427548d7283c45d8cce",
+      "pw_hash": "489896d97028be7ff614ac4f0ebf794ea9b28b240624500edbb21bb230e29961"
+    }
+  ],
+  "cars": [
+    {
+      "marca": "fiat",
+      "modelo": "palio",
+      "ano": "2015",
+      "preco_dia": "100",
+      "dono": "coelho@gmail.com",
+      "disponivel": true,
+      "dias_alugado": 0,
+      "valor_total": 0.0
+    }
+  ]
+}
